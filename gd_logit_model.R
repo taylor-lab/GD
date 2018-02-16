@@ -21,7 +21,8 @@ any(model.vif$Test > 10) # FALSE
 
 # Extract model variables
 model.vars <-
-  as.data.table(summary(model.full)$coefficients, keep.rownames = T)
+  as.data.table(summary(model.full)$coefficients, 
+                keep.rownames = T)
 
 # Compute 95% confidence intervals for odds ratios
 model.vars[, OR := exp(Estimate)]
