@@ -1,4 +1,4 @@
-# WGD
+# Genome doubling in advanced cancers
 
 Citations
 
