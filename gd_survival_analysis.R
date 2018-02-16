@@ -44,7 +44,7 @@ model.colo <- coxph(
 )
 
 
-# Load curated pancreas cancer data: primary pancreatic adenocarcinomas
+# Load curated pancreas cancer data: pancreatic adenocarcinomas (primary tumors)
 panc.dat <- fread("PancreaticData.txt")
 
 # Run Cox model
