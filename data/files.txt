@@ -1,0 +1,4 @@
+FeatureMatrix.txt - feature matrix for logistic regression
+BreastData.txt - annotated survival data for HR+/HER2- TP53wt breast cancers
+ColorectalData.txt - annotated survival data for KRAS-mutant colorectal cancers
+PancreaticData.txt - annotated survival data for primary pancreatic adenocarcinomas
