@@ -1,0 +1,218 @@
+PATIENT	os_days	VitalStatus	gd	DetailedTumorType2	age_at_diagnosis	menopause_status	stage	grade	esr1_mutant
+P-0000129	512	Dead	WGD	Breast Invasive Ductal Carcinoma	45	Peri	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000138	339	Alive	WGD	Other	46	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000167	913	Dead	no WGD	Breast Invasive Lobular Carcinoma	59	Post	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0000183	95	Dead	no WGD	Breast Invasive Ductal Carcinoma	48	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000216	1092	Dead	WGD	Breast Invasive Ductal Carcinoma	66	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0000224	333	Dead	no WGD	Breast Invasive Ductal Carcinoma	46	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0000247	1120	Alive	no WGD	Breast Invasive Ductal Carcinoma	42	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0000288	933	Dead	no WGD	Breast Invasive Ductal Carcinoma	35	Pre	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0000337	857	Alive	WGD	Breast Invasive Ductal Carcinoma	38	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0000346	368	Dead	WGD	Breast Invasive Ductal Carcinoma	52	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0000356	210	Alive	no WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000414	1077	Alive	WGD	Breast Invasive Ductal Carcinoma	25	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0000422	679	Dead	WGD	Breast Invasive Lobular Carcinoma	47	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0000432	91	Dead	WGD	Other	52	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000435	1048	Alive	no WGD	Breast Invasive Ductal Carcinoma	53	Post	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0000462	1142	Alive	no WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000466	1130	Alive	no WGD	Breast Invasive Ductal Carcinoma	39	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0000468	275	Dead	WGD	Breast Invasive Ductal Carcinoma	54	Post	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0000471	324	Dead	WGD	Breast Invasive Ductal Carcinoma	38	Pre	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0000483	1069	Alive	WGD	Breast Invasive Ductal Carcinoma	49	Pre	Stage II	I  Low Grade (Well Differentiated)	FALSE
+P-0000519	593	Dead	no WGD	Breast Invasive Ductal Carcinoma	32	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0000522	993	Dead	WGD	Breast Invasive Ductal Carcinoma	46	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0000595	1011	Alive	WGD	Breast Invasive Ductal Carcinoma	52	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0000607	130	Dead	no WGD	Breast Invasive Lobular Carcinoma	64	Post	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0000617	1054	Alive	no WGD	Breast Invasive Ductal Carcinoma	48	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0000795	313	Alive	WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0000805	690	Dead	no WGD	Breast Invasive Ductal Carcinoma	54	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0000816	291	Dead	WGD	Breast Invasive Ductal Carcinoma	51	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0000861	436	Dead	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0000871	1001	Alive	no WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0000946	922	Dead	no WGD	Breast Invasive Ductal Carcinoma	64	Post	Stage IV	I  Low Grade (Well Differentiated)	FALSE
+P-0000965	202	Dead	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0000984	987	Alive	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0000985	982	Alive	WGD	Breast Invasive Ductal Carcinoma	36	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0001114	967	Alive	WGD	Breast Invasive Lobular Carcinoma	50	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0001149	1262	Alive	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001184	890	Alive	no WGD	Breast Invasive Ductal Carcinoma	44	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0001258	623	Alive	WGD	Breast Invasive Ductal Carcinoma	45	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0001341	842	Dead	no WGD	Breast Invasive Ductal Carcinoma	63	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001350	624	Dead	no WGD	Breast Invasive Lobular Carcinoma	56	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0001366	145	Dead	WGD	Breast Invasive Ductal Carcinoma	66	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0001395	687	Alive	WGD	Breast Invasive Ductal Carcinoma	66	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0001419	987	Alive	no WGD	Breast Invasive Ductal Carcinoma	50	Peri	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0001447	583	Dead	WGD	Breast Invasive Ductal Carcinoma	39	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0001452	1016	Alive	no WGD	Breast Invasive Ductal Carcinoma	52	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001473	1207	Alive	no WGD	Breast Invasive Ductal Carcinoma	55	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001481	533	Alive	no WGD	Breast Invasive Lobular Carcinoma	56	Post	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001484	949	Alive	WGD	Breast Invasive Ductal Carcinoma	38	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0001491	28	Dead	WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage X	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001505	1164	Dead	no WGD	Breast Invasive Ductal Carcinoma	67	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0001545	197	Alive	WGD	Breast Invasive Ductal Carcinoma	42	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0001566	498	Dead	no WGD	Breast Invasive Lobular Carcinoma	55	Post	Stage III	I  Low Grade (Well Differentiated)	TRUE
+P-0001580	510	Dead	no WGD	Breast Invasive Ductal Carcinoma	48	Post	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0001607	1059	Dead	no WGD	Breast Invasive Ductal Carcinoma	66	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0001620	1021	Alive	no WGD	Breast Invasive Ductal Carcinoma	65	Post	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001661	1087	Alive	no WGD	Breast Invasive Ductal Carcinoma	67	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001751	177	Dead	WGD	Breast Invasive Ductal Carcinoma	36	Pre	Stage III	I  Low Grade (Well Differentiated)	TRUE
+P-0001846	43	Dead	no WGD	Breast Invasive Ductal Carcinoma	37	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0001874	904	Alive	no WGD	Breast Invasive Ductal Carcinoma	39	Pre	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0001875	997	Alive	no WGD	Breast Invasive Ductal Carcinoma	38	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0001932	455	Alive	no WGD	Breast Invasive Ductal Carcinoma	30	Pre	Stage X	III High Grade (Poorly Differentiated)	FALSE
+P-0001934	934	Alive	no WGD	Breast Invasive Ductal Carcinoma	70	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0001967	631	Dead	no WGD	Breast Invasive Lobular Carcinoma	50	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0001990	897	Alive	WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0002088	635	Alive	no WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002096	304	Dead	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0002115	477	Alive	no WGD	Other	55	Post	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002129	906	Alive	no WGD	Breast Invasive Ductal Carcinoma	40	Post	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002133	848	Alive	no WGD	Breast Invasive Lobular Carcinoma	63	Post	Stage III	I  Low Grade (Well Differentiated)	FALSE
+P-0002139	1001	Alive	WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0002228	951	Alive	WGD	Breast Invasive Ductal Carcinoma	62	Post	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002281	922	Alive	no WGD	Breast Invasive Lobular Carcinoma	75	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0002324	868	Alive	no WGD	Breast Invasive Ductal Carcinoma	66	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002366	840	Dead	no WGD	Breast Invasive Lobular Carcinoma	51	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0002399	881	Alive	no WGD	Breast Invasive Ductal Carcinoma	48	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002445	44	Alive	no WGD	Breast Invasive Lobular Carcinoma	45	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0002473	880	Alive	WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002527	809	Alive	no WGD	Breast Invasive Lobular Carcinoma	34	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002562	501	Dead	WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0002582	437	Dead	no WGD	Other	70	Post	Stage I	I  Low Grade (Well Differentiated)	FALSE
+P-0002625	347	Dead	no WGD	Breast Invasive Ductal Carcinoma	36	Pre	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002652	873	Alive	no WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0002657	162	Alive	no WGD	Breast Invasive Lobular Carcinoma	53	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0002667	857	Dead	no WGD	Breast Invasive Ductal Carcinoma	66	Post	Stage X	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0002696	895	Alive	no WGD	Breast Invasive Lobular Carcinoma	50	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0002773	832	Alive	no WGD	Breast Invasive Ductal Carcinoma	55	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0002828	1052	Alive	no WGD	Breast Invasive Ductal Carcinoma	50	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0002915	105	Dead	WGD	Breast Invasive Ductal Carcinoma	49	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0002950	884	Alive	no WGD	Breast Invasive Ductal Carcinoma	45	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0003002	805	Alive	WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0003021	198	Dead	WGD	Breast Invasive Ductal Carcinoma	51	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0003108	36	Dead	WGD	Breast Invasive Lobular Carcinoma	36	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0003134	779	Alive	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0003142	251	Alive	no WGD	Breast Invasive Ductal Carcinoma	37	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0003166	500	Alive	no WGD	Breast Invasive Ductal Carcinoma	38	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0003185	790	Alive	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0003195	815	Alive	no WGD	Breast Invasive Ductal Carcinoma	69	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0003224	1080	Alive	no WGD	Breast Invasive Ductal Carcinoma	49	Post	Stage II	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0003236	33	Alive	no WGD	Other	59	Post	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0003265	788	Alive	WGD	Breast Invasive Ductal Carcinoma	40	Post	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0003375	285	Dead	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage I	III High Grade (Poorly Differentiated)	TRUE
+P-0003393	418	Alive	no WGD	Breast Invasive Ductal Carcinoma	42	Pre	Stage III	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0003394	725	Alive	no WGD	Breast Invasive Lobular Carcinoma	68	Post	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0003431	679	Alive	no WGD	Breast Invasive Ductal Carcinoma	33	Pre	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0003459	473	Dead	no WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage X	III High Grade (Poorly Differentiated)	FALSE
+P-0003557	28	Alive	WGD	Breast Invasive Ductal Carcinoma	45	Pre	Stage X	III High Grade (Poorly Differentiated)	FALSE
+P-0003644	1020	Alive	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0003751	777	Alive	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0003784	808	Alive	no WGD	Breast Invasive Ductal Carcinoma	62	Post	Stage I	I  Low Grade (Well Differentiated)	FALSE
+P-0003787	783	Alive	no WGD	Breast Invasive Lobular Carcinoma	42	Post	Stage III	III High Grade (Poorly Differentiated)	TRUE
+P-0003947	737	Alive	no WGD	Breast Invasive Lobular Carcinoma	65	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0004028	779	Alive	no WGD	Breast Invasive Ductal Carcinoma	77	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004121	776	Alive	no WGD	Breast Invasive Ductal Carcinoma	69	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0004127	106	Alive	no WGD	Other	32	Pre	Stage X	III High Grade (Poorly Differentiated)	FALSE
+P-0004183	594	Dead	no WGD	Breast Invasive Ductal Carcinoma	60	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004216	544	Alive	WGD	Other	27	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0004265	447	Dead	no WGD	Other	51	Pre	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004289	726	Alive	WGD	Breast Invasive Ductal Carcinoma	42	Pre	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0004309	717	Alive	no WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004314	868	Alive	WGD	Breast Invasive Ductal Carcinoma	48	Peri	Stage I	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0004353	652	Dead	no WGD	Other	63	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0004406	728	Alive	no WGD	Breast Invasive Ductal Carcinoma	43	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0004450	427	Dead	no WGD	Breast Invasive Ductal Carcinoma	63	Post	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0004462	125	Dead	no WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0004477	733	Dead	WGD	Breast Invasive Lobular Carcinoma	76	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0004501	424	Alive	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004550	1	Alive	no WGD	Other	60	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0004558	500	Dead	no WGD	Breast Invasive Ductal Carcinoma	52	Post	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004606	686	Alive	WGD	Other	42	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0004654	737	Alive	no WGD	Breast Invasive Ductal Carcinoma	70	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004728	706	Alive	no WGD	Breast Invasive Ductal Carcinoma	27	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0004835	904	Alive	WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0004896	907	Alive	no WGD	Breast Invasive Ductal Carcinoma	31	Pre	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0004898	704	Alive	no WGD	Breast Invasive Lobular Carcinoma	34	Pre	Stage III	I  Low Grade (Well Differentiated)	FALSE
+P-0004908	681	Alive	no WGD	Breast Invasive Ductal Carcinoma	46	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004949	379	Dead	WGD	Breast Invasive Ductal Carcinoma	39	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0004950	742	Alive	no WGD	Breast Invasive Lobular Carcinoma	55	Peri	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0004951	708	Alive	no WGD	Breast Invasive Lobular Carcinoma	43	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0004981	406	Alive	WGD	Breast Invasive Ductal Carcinoma	39	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0004999	708	Alive	no WGD	Breast Invasive Ductal Carcinoma	53	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0005036	687	Alive	no WGD	Breast Invasive Ductal Carcinoma	52	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0005042	173	Dead	no WGD	Breast Invasive Ductal Carcinoma	39	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0005120	196	Dead	WGD	Breast Invasive Lobular Carcinoma	58	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0005145	584	Alive	no WGD	Breast Invasive Ductal Carcinoma	42	Pre	Stage I	I  Low Grade (Well Differentiated)	TRUE
+P-0005152	222	Alive	no WGD	Breast Invasive Ductal Carcinoma	38	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0005154	464	Dead	no WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0005242	803	Alive	no WGD	Breast Invasive Lobular Carcinoma	62	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0005263	294	Alive	no WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0005315	91	Alive	no WGD	Breast Invasive Ductal Carcinoma	46	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0005360	717	Alive	WGD	Breast Invasive Ductal Carcinoma	44	Pre	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0005377	662	Alive	no WGD	Other	52	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0005416	117	Dead	no WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage I	III High Grade (Poorly Differentiated)	TRUE
+P-0005417	682	Alive	no WGD	Breast Invasive Ductal Carcinoma	67	Post	Stage II	I  Low Grade (Well Differentiated)	FALSE
+P-0005423	643	Alive	no WGD	Breast Invasive Ductal Carcinoma	28	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0005426	604	Alive	no WGD	Breast Invasive Ductal Carcinoma	26	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0005452	664	Alive	no WGD	Breast Invasive Ductal Carcinoma	63	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0005469	666	Alive	no WGD	Breast Invasive Ductal Carcinoma	35	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0005508	187	Alive	no WGD	Breast Invasive Ductal Carcinoma	64	Post	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0005666	198	Dead	no WGD	Breast Invasive Lobular Carcinoma	41	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0005675	540	Alive	no WGD	Other	63	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0005784	441	Alive	no WGD	Other	62	Post	Stage I	I  Low Grade (Well Differentiated)	FALSE
+P-0005818	683	Alive	no WGD	Breast Invasive Ductal Carcinoma	55	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0005948	37	Alive	no WGD	Breast Invasive Ductal Carcinoma	45	Pre	Stage I	I  Low Grade (Well Differentiated)	FALSE
+P-0006068	578	Alive	WGD	Breast Invasive Ductal Carcinoma	59	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0006086	565	Alive	no WGD	Breast Invasive Ductal Carcinoma	65	Post	Stage X	III High Grade (Poorly Differentiated)	FALSE
+P-0006169	643	Alive	WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage IV	III High Grade (Poorly Differentiated)	TRUE
+P-0006248	662	Alive	no WGD	Breast Invasive Ductal Carcinoma	63	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0006249	694	Alive	no WGD	Breast Invasive Ductal Carcinoma	65	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0006309	91	Alive	no WGD	Breast Invasive Ductal Carcinoma	52	Peri	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0006310	651	Alive	no WGD	Breast Invasive Ductal Carcinoma	44	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0006348	601	Alive	no WGD	Breast Invasive Lobular Carcinoma	79	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0006456	20	Alive	no WGD	Other	45	Pre	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0006479	691	Alive	no WGD	Other	35	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0006527	26	Alive	no WGD	Breast Invasive Ductal Carcinoma	37	Pre	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0006556	456	Alive	no WGD	Breast Invasive Ductal Carcinoma	48	Post	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0006563	40	Alive	no WGD	Breast Invasive Ductal Carcinoma	44	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0006601	650	Alive	no WGD	Breast Invasive Ductal Carcinoma	53	Peri	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0006609	69	Alive	no WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage IV	I  Low Grade (Well Differentiated)	TRUE
+P-0006622	617	Alive	no WGD	Breast Invasive Ductal Carcinoma	42	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0006650	351	Dead	WGD	Breast Invasive Ductal Carcinoma	64	Post	Stage II	III High Grade (Poorly Differentiated)	TRUE
+P-0006866	50	Alive	WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0007009	358	Dead	WGD	Breast Invasive Ductal Carcinoma	68	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0007087	314	Dead	no WGD	Breast Invasive Ductal Carcinoma	46	Post	Stage X	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0007100	546	Alive	no WGD	Breast Invasive Lobular Carcinoma	49	Peri	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0007183	51	Dead	no WGD	Other	69	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0007231	250	Alive	no WGD	Breast Invasive Ductal Carcinoma	46	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0007282	525	Alive	no WGD	Breast Invasive Lobular Carcinoma	31	Pre	Stage III	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0007396	70	Alive	no WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0007496	503	Dead	no WGD	Breast Invasive Ductal Carcinoma	76	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0007539	134	Dead	WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0007564	529	Alive	no WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage I	I  Low Grade (Well Differentiated)	TRUE
+P-0007566	701	Alive	no WGD	Breast Invasive Lobular Carcinoma	50	Peri	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0007573	276	Alive	no WGD	Breast Invasive Ductal Carcinoma	58	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0007577	539	Alive	WGD	Breast Invasive Lobular Carcinoma	44	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0007579	517	Alive	no WGD	Breast Invasive Ductal Carcinoma	49	Peri	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0007601	527	Alive	no WGD	Other	52	Peri	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0007671	499	Alive	no WGD	Breast Invasive Ductal Carcinoma	56	Post	Stage I	III High Grade (Poorly Differentiated)	TRUE
+P-0007741	520	Alive	no WGD	Other	46	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0007759	468	Alive	no WGD	Breast Invasive Lobular Carcinoma	64	Post	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0007888	465	Alive	no WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0007984	488	Alive	no WGD	Breast Invasive Ductal Carcinoma	63	Post	Stage IV	III High Grade (Poorly Differentiated)	FALSE
+P-0008006	503	Alive	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage X	III High Grade (Poorly Differentiated)	FALSE
+P-0008027	529	Alive	no WGD	Breast Invasive Ductal Carcinoma	40	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0008049	550	Dead	WGD	Breast Invasive Ductal Carcinoma	52	Pre	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0008148	497	Alive	no WGD	Other	52	Pre	Stage II	I  Low Grade (Well Differentiated)	FALSE
+P-0008327	49	Alive	no WGD	Breast Invasive Ductal Carcinoma	47	Pre	Stage II	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0008334	487	Alive	no WGD	Breast Invasive Ductal Carcinoma	55	Post	Stage III	II  Intermediate Grade (Moderately Differentiated)	TRUE
+P-0008386	308	Alive	WGD	Breast Invasive Lobular Carcinoma	56	Post	Stage III	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0008400	487	Alive	no WGD	Breast Invasive Ductal Carcinoma	37	Pre	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0008424	518	Alive	no WGD	Breast Invasive Lobular Carcinoma	53	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0008448	475	Alive	WGD	Breast Invasive Lobular Carcinoma	81	Post	Stage III	III High Grade (Poorly Differentiated)	FALSE
+P-0008449	448	Alive	no WGD	Breast Invasive Ductal Carcinoma	65	Post	Stage II	III High Grade (Poorly Differentiated)	FALSE
+P-0008570	83	Alive	no WGD	Breast Invasive Ductal Carcinoma	41	Pre	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0008751	261	Alive	no WGD	Breast Invasive Ductal Carcinoma	61	Post	Stage IV	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0008845	321	Alive	no WGD	Breast Invasive Ductal Carcinoma	70	Post	Stage I	III High Grade (Poorly Differentiated)	FALSE
+P-0008930	538	Alive	no WGD	Breast Invasive Ductal Carcinoma	36	Pre	Stage I	II  Intermediate Grade (Moderately Differentiated)	FALSE
+P-0008952	353	Alive	no WGD	Breast Invasive Lobular Carcinoma	79	Post	Stage I	III High Grade (Poorly Differentiated)	FALSE
